@@ -19,7 +19,9 @@ public class Aiyad_GitHub_02 {
 			System.out.println("Write your CGPA !");
 			double cgpa = Identity.nextDouble();
 			System.out.println();
+			
 	  // Print the values to check if input was correctly obtained.
+			
 			System.out.println("Name: "+name);
 			System.out.println("Gender: "+gender);
 			System.out.println("Age: "+age);
